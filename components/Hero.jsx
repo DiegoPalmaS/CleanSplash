@@ -21,11 +21,12 @@ const Hero = () => {
       {/* Contenido */}
       <div className="relative z-10 container mx-auto px-6 text-center py-24 md:py-32">
         <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-4 animate-fade-in-down">
-          Tu piscina perfecta, limpia y segura todo el año
+          Expertos en mantenimiento y limpieza de Piscinas y limpieza de jardines.
         </h1>
 
         <p className="text-lg md:text-xl text-gray-200 mb-8 max-w-3xl mx-auto animate-fade-in-up">
-          Confía en los expertos para mantener el agua cristalina y tu familia protegida. Cobertura en toda la Región Metropolitana.
+          Brindamos servicios confiables y personalizados para que disfrutes de tu piscina sin preocupaciones y tu jardín limpio todo el año.
+
         </p>
 
         <div className="flex flex-col sm:flex-row justify-center gap-4">
